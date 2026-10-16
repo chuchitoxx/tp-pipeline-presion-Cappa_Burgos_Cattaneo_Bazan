@@ -5,7 +5,7 @@ Pipeline de procesamiento, validación y análisis de mediciones de presión a p
 ## Estructura del Proyecto
 
 ```text
-tp-pipeline-presion-grupoX/
+tp-pipeline-presion-Cappa_Burgos_Cattaneo_Bazan
 ├── README.md
 ├── .gitignore
 ├── data/
